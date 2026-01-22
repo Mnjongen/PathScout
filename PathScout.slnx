@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="PathScout.Benchmarks/PathScout.Benchmarks.csproj" />
   <Project Path="PathScout.Core/PathScout.Core.csproj" />
   <Project Path="PathScout.Tests/PathScout.Tests.csproj" />
   <Project Path="PathScout.View/PathScout.View.csproj" />
